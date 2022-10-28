@@ -7,7 +7,7 @@ If you like to run this project:
 
 Clone Repository
 
-git clone https://
+git clone https://https://github.com/HarshDekate/Personal-Portfolio-.git
 
 
 ![Personal Portfolio](https://user-images.githubusercontent.com/116677291/198123805-2144982e-eef3-42bd-a26f-4e445b798009.jpeg)
